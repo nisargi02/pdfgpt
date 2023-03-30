@@ -7,7 +7,7 @@ from query_data import _template, CONDENSE_QUESTION_PROMPT, QA_PROMPT, get_chain
 import pickle
 import os
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
 #def load_chain():
 #    """Logic for loading the chain you want to use should go here."""
 #   llm = OpenAI(temperature=0)

@@ -1,0 +1,23 @@
+.main {
+    background-color:black; /* You can change the color to your preference */
+    color:white
+}
+
+/* Change the background color of the sidebar */
+.sidebar .block-container {
+    background-color: black; /* You can change the color to your preference */
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:black;
+    color: white;
+    text-align: right;
+}
+
+h1, h2, h3, h4, h5, h6, p, label, .stMarkdown, .sidebar .block-container {
+    color: white;
+}

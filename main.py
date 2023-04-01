@@ -7,7 +7,7 @@ from query_data import _template, CONDENSE_QUESTION_PROMPT, QA_PROMPT, get_chain
 import pickle
 import os
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
 
 st.set_page_config(page_title="LangChain Demo", page_icon=":robot:")
 import streamlit as st
